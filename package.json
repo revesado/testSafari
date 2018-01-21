@@ -1,0 +1,23 @@
+{
+  "name": "testsafari",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/revesado/testSafari.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revesado/testSafari/issues"
+  },
+  "homepage": "https://github.com/revesado/testSafari#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "filehound": "^1.16.2"
+  }
+}
